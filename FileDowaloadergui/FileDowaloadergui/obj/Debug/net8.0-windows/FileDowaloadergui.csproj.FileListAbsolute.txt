@@ -1,0 +1,82 @@
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.exe
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.deps.json
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.runtimeconfig.json
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.pdb
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.Form1.resources
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.AssemblyInfo.cs
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\refint\FileDowaloadergui.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.pdb
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.genruntimeconfig.cache
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\ref\FileDowaloadergui.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Threading.Channels.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowa.6B95E8C6.Up2Date
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.exe
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.deps.json
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.runtimeconfig.json
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\FileDowaloadergui.pdb
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Bcl.TimeProvider.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Features.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Net.ServerSentEvents.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\System.Threading.Channels.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.csproj.AssemblyReference.cache
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.Form1.resources
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.csproj.GenerateResource.cache
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.AssemblyInfoInputs.cache
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.AssemblyInfo.cs
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.csproj.CoreCompileInputs.cache
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowa.6B95E8C6.Up2Date
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\refint\FileDowaloadergui.dll
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.pdb
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\FileDowaloadergui.genruntimeconfig.cache
+D:\USER\VS .net\FileDowaloadergui\FileDowaloadergui\obj\Debug\net8.0-windows\ref\FileDowaloadergui.dll

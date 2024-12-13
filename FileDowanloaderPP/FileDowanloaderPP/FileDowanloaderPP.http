@@ -1,0 +1,6 @@
+@FileDowanloaderPP_HostAddress = http://localhost:5073
+
+GET {{FileDowanloaderPP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

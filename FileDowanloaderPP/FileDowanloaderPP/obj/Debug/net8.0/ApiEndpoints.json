@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FileDowanloaderPP.Controllers.DownalodeController",
+    "Method": "DownloadFilesWithProgressAsync",
+    "RelativePath": "api/Downalode/downloadMultiple",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "files",
+        "Type": "System.Collections.Generic.List\u00601[[FileDowanloaderPP.Models.FileDowalod, FileDowanloaderPP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
