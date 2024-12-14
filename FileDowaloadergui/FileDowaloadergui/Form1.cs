@@ -152,7 +152,8 @@ namespace FileDowaloadergui
                     panelProgressBars.Visible = true;
                 }
 
-               
+                label1.Visible = true;
+                label1.Text = "Execution Time : ";
 
             }
             else
@@ -276,6 +277,8 @@ namespace FileDowaloadergui
 
             // Hide the progress panel
             panelProgressBars.Visible = false;
+            label1.Visible = false;
+
         }
 
         private void panelProgressBars_Paint(object sender, PaintEventArgs e)
