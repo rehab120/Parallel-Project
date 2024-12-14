@@ -1,4 +1,4 @@
-﻿
+
 using FileDowanloaderPP.Repositry;
 using Microsoft.AspNetCore.Mvc;
 using FileDowanloaderPP.Models;
@@ -56,13 +56,14 @@ namespace FileDowanloaderPP.Controllers
         //        // Total Execution time
         //        Console.WriteLine(
         //            $"The Execution time of the program is {totalWatch.ElapsedMilliseconds}ms");
+        //        var TotalExecutionTime = totalWatch.ElapsedMilliseconds;
 
         //        // Return Success Response
         //        return Ok(new
         //        {
         //            Message = "Files downloaded successfully",
         //            DestinationFolder = destinationFolder,
-        //            TotalExecutionTimeMs = totalWatch.ElapsedMilliseconds
+        //            ExecutionTime = TotalExecutionTime
         //        });
         //    }
         //    catch (OperationCanceledException)
@@ -191,6 +192,7 @@ namespace FileDowanloaderPP.Controllers
                 //EXecution time of whole program 
                 Console.WriteLine(
                           $"The Execution time of the program is {watch.ElapsedMilliseconds}ms");
+                var TotalExecutionTime = watch.ElapsedMilliseconds;
 
                 // Return Sucess Response 
                 if (results.All(success => success))
@@ -199,7 +201,7 @@ namespace FileDowanloaderPP.Controllers
                     {
                         Message = "Files downloaded successfully",
                         DestinationFolder = destinationFolder,
-                        TotalExecutionTimeMs = watch.ElapsedMilliseconds
+                        ExecutionTime = TotalExecutionTime
                     });
 
                 }
@@ -259,8 +261,8 @@ namespace FileDowanloaderPP.Controllers
                                 fileD.ProgressPercentageF = progressPercentage;
 
                                 //Send progress update to the client vis SingnalR
-                                await hubContext.Clients.All.SendAsync("ReceiveProgress", fileD.FileName, progressPercentage);
-                                Console.WriteLine($"Downloading {fileD.FileName}: {progressPercentage}%");
+                                await hubContext.Clients.All.SendAsync("ReceiveProgress", fileD.FileName, progressPercentage);//gui
+                                Console.WriteLine($"Downloading {fileD.FileName}: {progressPercentage}%");//console
                             }
                         }
                     }
