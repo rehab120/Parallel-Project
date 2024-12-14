@@ -2,6 +2,7 @@ using System.Text.Json;
 using System.Text;
 using Microsoft.AspNetCore.SignalR.Client;
 using System.Net.Sockets;
+using System.Diagnostics;
 
 namespace FileDowaloadergui
 {
@@ -17,8 +18,8 @@ namespace FileDowaloadergui
         {
             InitializeComponent();
             InitializeSignalR();
-        }
 
+        }
 
         private async void InitializeSignalR()
         {
@@ -96,7 +97,7 @@ namespace FileDowaloadergui
             string url = txtUrl.Text;
             string fileName = Path.GetFileName(url);
 
-
+            
             if (!Uri.TryCreate(url, UriKind.Absolute, out _))
             {
                 MessageBox.Show("Please enter a valid file URL.");
@@ -185,13 +186,28 @@ namespace FileDowaloadergui
                         Encoding.UTF8,
                         "application/json");
 
+
+
                     // Pass the CancellationToken to PostAsync
                     var response = await client.PostAsync(apiEndpoint, jsonContent, cancellationTokenSource.Token);
 
                     if (response.IsSuccessStatusCode)
                     {
-                        // Pass the CancellationToken to ReadAsByteArrayAsync
-                        var fileBytes = await response.Content.ReadAsByteArrayAsync(cancellationTokenSource.Token);
+                        // Parse the response to retrieve ExecutionTime
+                        var responseContent = await response.Content.ReadAsStringAsync(cancellationTokenSource.Token);
+                        var responseObject = JsonSerializer.Deserialize<Dictionary<string, object>>(responseContent);
+
+                        if (responseObject != null && responseObject.ContainsKey("executionTime"))
+                        {
+                            // Display the ExecutionTime from the backend
+                            var executionTime = responseObject["executionTime"]?.ToString();
+                            label1.Text = $"Execution Time: {executionTime} ms";
+                        }
+                        else
+                        {
+                            MessageBox.Show("ExecutionTime is missing in the response.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        }
+
                         MessageBox.Show("Files downloaded successfully!");
                     }
                     else
